@@ -16,7 +16,7 @@ To join in on the fun,
 |--|--|--|--|
 | 1 | [Unit One: Chapter 1 - The Myths and Truths of AI](https://youtu.be/A1CcHAiqsww) | [Ritwik Raha](http://bit.ly/ritwik-raha) | [PPT](https://docs.google.com/presentation/d/1fY_68DNJzN0gL-zvWVr0hCgCfagDYxnuVxKJ01lZalY/edit?usp=sharing)
 | 2 | [Unit One: Chapter 2 - Understanding Data](https://www.youtube.com/watch?v=COXKy3OuIO8) | [Anurag Singh](https://github/anuragsingh228) | [PPT](https://docs.google.com/presentation/d/1TMjhbrPr3Qml091bLu7T-Xg-YSnx21Gfr_ZTpH0JmRw/edit?usp=sharing) 
-| 3 | [Unit One: Chapter 3 - A Peek Into the Future]((https://youtu.be/XakiUOA_ThU)) | [Anubhav Singh](https://xprilion.com) | [PPT](https://docs.google.com/presentation/d/1EueefmU4COH9HXyGkvVKBl2IJ6DlMQVFttHc-rrzwiI/edit?usp=sharing)
+| 3 | [Unit One: Chapter 3 - A Peek Into the Future](https://youtu.be/XakiUOA_ThU)) | [Anubhav Singh](https://xprilion.com) | [PPT](https://docs.google.com/presentation/d/1EueefmU4COH9HXyGkvVKBl2IJ6DlMQVFttHc-rrzwiI/edit?usp=sharing)
 | 4 | [Unit Two: Chapter 4 - Setting up your Python environment for ML](https://youtu.be/-9nulbyAad0) | [Ayush Thakur](https://www.linkedin.com/in/ayush-thakur-731914149/) | [PPT](https://docs.google.com/presentation/d/1maJhHPZsT6D8bSKQYE3AdbyiMzi77JP_YolVFPN1yqE/edit?usp=sharing)
 | 5 | [Guest Session - Exploring Machine Learning](https://youtu.be/p8Wdof5yaJw) | [Nikita Gandhi](https://www.linkedin.com/in/nikita-gandhi01/) | |
 | 6 | [Unit Two: Chapter 5 - A Quick Introduction to Python for Data Science](https://youtu.be/Dnzx5eD7c60) | [Shashwat Sinha](https://www.linkedin.com/in/shashwat3057/) | [Colab](http://tiny.cc/oub1cz)
