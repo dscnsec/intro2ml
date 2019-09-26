@@ -3,7 +3,7 @@ The Intro to ML with DSC NSEC program is a series of YouTube Live sessions condu
 
 Check out the [YouTube Series PLaylist](https://www.youtube.com/playlist?list=PLLGfrNGZ7g4MP3yRMSAC0hB-DQzY6nNZg)
 
-Subscribe the channel at - [https://youtube.com/dscnsec](https://youtube.com/dscnsec)
+DSC NSEC YouTube channel at - [https://youtube.com/dscnsec](https://youtube.com/dscnsec)
 
 To join in on the fun, 
 - Forum: [https://dscnsec.com](https://dscnsec.com)
