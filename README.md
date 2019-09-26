@@ -1,5 +1,12 @@
 # Intro to ML with DSC NSEC
-Repository for resources in Intro to ML with DSC NSEC YouTube Live Course.
+The Intro to ML with DSC NSEC program is a series of YouTube Live sessions conducted over a period of 2 months by students, freelancers, professionals and everyone who has a knack for machine learning!
+
+To join in on the fun, 
+- Forum: https://dscnsec.com
+- WhatsApp: https://tiny.cc/intro2ml
+- Slack: https://tiny.cc/dscnsec-slack
+
+---------------------------------------
 
 | SL | Title | Author | YouTube | Slides |
 |--|--|--|--|--|
